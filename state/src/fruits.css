@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 150px;
+  background-color: white;
+  border-radius: 20px;
+  border-color: black;
+  align-items: center;
+  margin: 20px;
+}
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.title {
+  margin-top: auto;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
